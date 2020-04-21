@@ -11,7 +11,7 @@ scoop install git
 scoop bucket add extras
 
 # Personal apps
-scoop install firefox thunderbird 1password-cli discord teamspeak3 vlc steam winrar
+scoop install firefox thunderbird 1password-cli discord teamspeak3 vlc steam winrar qbittorrent
 
 <# Some apps will have to be acquired manually, in order of importance these are
    1. GeForce Experience (Nvidia gpu)
@@ -19,4 +19,5 @@ scoop install firefox thunderbird 1password-cli discord teamspeak3 vlc steam win
    3. Robert Space Industries launcher
    4. Battle.net
    5. EA Origin
+   6. NordVPN (could be replaced by openVPN, which is in scoop)
  #>
