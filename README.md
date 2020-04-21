@@ -1,2 +1,4 @@
-# windows-10-setup
-A setup list of things to get for windows 10
+# Windows 10 Setup
+A simple script with notes to install for windows 10 for personal use
+
+Could technically be a gist
