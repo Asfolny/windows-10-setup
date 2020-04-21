@@ -11,7 +11,7 @@ scoop install git
 scoop bucket add extras
 
 # Personal apps
-scoop install firefox thunderbird 1password-cli discord teamspeak3 vlc steam
+scoop install firefox thunderbird 1password-cli discord teamspeak3 vlc steam winrar
 
 <# Some apps will have to be acquired manually, in order of importance these are
    1. GeForce Experience (Nvidia gpu)
